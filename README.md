@@ -1,73 +1,147 @@
-<h2 align="left">Hi 👋! My name is Juan Camilo Vanegas and I'm a Data Scientist, from Medellin, Colombia 🇨🇴.</h2>
+# 👋 Hola, soy Juan Camilo
 
-###
+## 📊 Ciencia de Datos | Resolviendo problemas de negocio con IA y analítica
+
+---
+
+## 🎯 Sobre mí
+
+Soy estudiante de Ingeniería Mecatrónica en reconversión hacia la **Ciencia de Datos**. Me apasiona transformar datos complejos en soluciones estratégicas, diseñar modelos de **Machine Learning** y llevarlos a producción. Disfruto construyendo sistemas **end-to-end**, combinando mi pensamiento analítico con herramientas cloud, automatización y desarrollo web.
+
+---
+
+## 🛠️ Tecnologías
+
+### Data Science & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+### Ingeniería & Cloud
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00D084?style=for-the-badge&logo=neon&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EB424B?style=for-the-badge&logo=n8n&logoColor=white)
+
+### Web & Despliegue
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 🛒 Sistema de Recomendación de Próxima Compra
+Motor de recomendaciones para e-commerce enfocado en aumentar la tasa de recompra. Arquitectura **end-to-end** desplegada en **AWS** bajo metodologías ágiles **(Scrum)**.
+
+**Tecnologías:** Python, Machine Learning, AWS, FastAPI, Scikit-Learn
+
+### 🌊 Optimización de Turbinas Hidráulicas
+Predicción de eficiencia en álabes de turbinas mediante el diseño y entrenamiento de modelos de redes neuronales **(DANN y MLP)**.
+
+**Tecnologías:** TensorFlow, Deep Learning, Python, Análisis de datos
+
+---
+
+## 📊 Estadísticas
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JuanCaVa21&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanCaVa21&show_icons=true&theme=dracula&hide_border=false" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCaVa21&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" />
 </div>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-</div>
-
-###
-
-<img align="right" height="200" src="https://s13.gifyu.com/images/bvDnT.png"  />
-
-###
+---
 
 <div align="center">
-  <a href="https://www.instagram.com/juancvanegas216/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="juancvanegas216@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/juan-camilo-vanegas-rojas-168a13241/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  
+### 📱 Conecta conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-camilo-vanegas-rojas-168a13241/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juancvanegas216@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juancvanegas216/)
+
 </div>
 
-###
+---
 
-<p align="left">🇨🇴 Versión en Español</p>
+# 👋 Hi, I'm Juan Camilo
 
-###
+## 📊 Data Science | Solving business problems with AI and analytics
 
-<p align="left">¡Hola! Soy Juan Camilo Vanegas 👋<br><br>Soy un apasionado por la ciencia de datos, el aprendizaje automático y la optimización de procesos. Me enfoco en transformar datos en soluciones reales y en utilizar las herramientas actuales impulsar la eficiencia de los negocios.</p>
+---
 
-###
+## 🎯 About Me
 
-<p align="left">🚀 En qué estoy trabajando actualmente<br><br>- Despliegue de Modelos de Redes Neuronales (ANN): Estoy desarrollando el ciclo de vida completo de modelos de Deep Learning. Mi enfoque actual está en el entrenamiento de Redes Neuronales Artificiales, con el objetivo de escalar hacia Modelos Convolucionales Profundos (DCNN) utilizando TensorFlow. Para el paso a producción, me encargo del preprocesamiento y detección de anomalías con pandas, expongo los modelos mediante APIs eficientes con FastAPI y utilizo Docker para su contenedorización y despliegue seguro.<br><br>- Automatización de Negocio de Manualidades con n8n: Estoy diseñando la arquitectura de automatización para un emprendimiento de manualidades. A través de n8n, construyo flujos de trabajo que integran diversas funciones para optimizar la gestión del tiempo, la atención al cliente y las operaciones diarias, eliminando tareas manuales.<br><br>🛠️ Tecnologías y Herramientas destacadas<br><br>- Data Science <br>- Machine Learning<br>- Deep Learning <br>- Python<br>- SQL<br>- PowerBI<br>- Pandas <br>- TensorFlow.<br>- Docker<br>- FastAPI</p>
+I am a **Mechatronics Engineering** student transitioning to **Data Science**. I am passionate about transforming complex data into strategic solutions, designing **Machine Learning** models, and deploying them to production. I enjoy building **end-to-end** systems, combining analytical thinking with cloud tools, automation, and web development.
 
-###
+---
 
-<p align="left">🇬🇧 English Version<br><br>Hi there! I'm Juan Camilo Vanegas 👋<br><br>I am passionate about data science, machine learning, and process optimization. My focus is on transforming data into real-world solutions and creating real solutions that boost business efficiency.<br><br>🚀 What I'm currently working on<br><br>Artificial Neural Network (ANN) Deployment: I am developing the full lifecycle of Deep Learning models. My current focus is training ANNs, with plans to scale up to Deep Convolutional Neural Networks (DCNN) using TensorFlow. For production, I handle preprocessing and anomaly detection with pandas, expose models via efficient APIs using FastAPI, and use Docker for containerization and secure deployment.<br><br>Crafts Business Automation with n8n: I am designing the automation architecture for a handmade crafts business. Using n8n, I build workflows that integrate various funtions to optimize order management, customer service, and daily operations, eliminating manual tasks and bottlenecks.<br><br>🛠️ Highlighted Tech & Tools<br><br>- Data Science <br>- Machine Learning<br>- Deep Learning <br>- Python<br>- SQL<br>- PowerBI<br>- Pandas <br>- TensorFlow.<br>- Docker<br>- FastAPI</p>
+## 🛠️ Technologies
 
-###
+### Data Science & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-9933FF?style=for-the-badge&logo=lightgbm&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FF6F00?style=for-the-badge&logo=catboost&logoColor=white)
+
+### Engineering & Cloud
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00D084?style=for-the-badge&logo=neon&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EB424B?style=for-the-badge&logo=n8n&logoColor=white)
+
+### Web & Deployment
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 Next Purchase Recommendation System
+Recommendation engine for e-commerce focused on increasing repurchase rate. **End-to-end** architecture deployed on **AWS** following agile methodologies **(Scrum)**.
+
+**Technologies:** Python, Machine Learning, AWS, FastAPI, Scikit-Learn
+
+### 🌊 Hydraulic Turbine Optimization
+Efficiency prediction in turbine blades through the design and training of neural network models **(DANN and MLP)**.
+
+**Technologies:** TensorFlow, Deep Learning, Python, Data Analysis
+
+---
+
+## 📊 Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanCaVa21&show_icons=true&theme=dracula&hide_border=false" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCaVa21&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  
+### 📱 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-camilo-vanegas-rojas-168a13241/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juancvanegas216@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juancvanegas216/)
+
+</div>
